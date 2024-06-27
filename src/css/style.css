@@ -17,3 +17,27 @@
   --dark-grey: rgb(31, 31, 31);
   --off-black: rgb(20, 20, 20);
 }
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter"),
+    url("../assets/fonts/Inter-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter"),
+    url("../assets/fonts/Inter-SemiBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter"),
+    url("../assets/fonts/Inter-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
