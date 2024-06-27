@@ -2,14 +2,14 @@ import '../css/style.css'
 
 document.querySelector('#app').innerHTML = `
   <div class="card">
-    <h1>Jessica Randall</h1>
-    <h2>London, United Kingdom</h2>
-    <p>"Front-end developer and avid reader."</p>
+    <h1 class="card__title">Jessica Randall</h1>
+    <h2 class="card__location">London, United Kingdom</h2>
+    <p class="card__description">"Front-end developer and avid reader."</p>
 
-    <a href="#">GitHub</a>
-    <a href="#">Frontend Mentor</a>
-    <a href="#">LinkedIn</a>
-    <a href="#">Twitter</a>
-    <a href="#">Instagram</a>
+    <a class="card__social" href="#">GitHub</a>
+    <a class="card__social" href="#">Frontend Mentor</a>
+    <a class="card__social" href="#">LinkedIn</a>
+    <a class="card__social" href="#">Twitter</a>
+    <a class="card__social" href="#">Instagram</a>
   </div>
 `
