@@ -1,5 +1,13 @@
 import '../css/style.css'
 
 document.querySelector('#app').innerHTML = `
-  Hello World!
+  Jessica Randall
+  London, United Kingdom
+  "Front-end developer and avid reader."
+
+  GitHub
+  Frontend Mentor
+  LinkedIn
+  Twitter
+  Instagram
 `
