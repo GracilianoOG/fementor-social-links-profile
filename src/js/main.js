@@ -1,13 +1,13 @@
 import '../css/style.css'
 
 document.querySelector('#app').innerHTML = `
-  Jessica Randall
-  London, United Kingdom
-  "Front-end developer and avid reader."
+  <h1>Jessica Randall</h1>
+  <h2>London, United Kingdom</h2>
+  <p>"Front-end developer and avid reader."</p>
 
-  GitHub
-  Frontend Mentor
-  LinkedIn
-  Twitter
-  Instagram
+  <a href="#">GitHub</a>
+  <a href="#">Frontend Mentor</a>
+  <a href="#">LinkedIn</a>
+  <a href="#">Twitter</a>
+  <a href="#">Instagram</a>
 `
