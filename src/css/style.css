@@ -19,7 +19,7 @@ body {
 .card {
   background-color: var(--color-dark-grey);
   border-radius: 0.75rem;
-  max-width: 330px;
+  flex: 0 1 330px;
   padding: 1.5rem;
   text-align: center;
 }
