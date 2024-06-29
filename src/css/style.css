@@ -5,6 +5,7 @@
 body {
   color: var(--color-white);
   font-family: "Inter", sans-serif;
+  font-size: 14px;
 }
 
 #app {
