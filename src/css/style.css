@@ -3,5 +3,12 @@
 @import url("./fonts.css");
 
 body {
+  color: var(--color-white);
   font-family: "Inter", sans-serif;
+}
+
+.card {
+  background-color: var(--color-grey);
+  max-width: 330px;
+  text-align: center;
 }
