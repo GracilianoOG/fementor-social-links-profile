@@ -27,6 +27,7 @@ body {
 .card__location {
   color: var(--color-green);
   font-size: 0.9rem;
+  margin-bottom: 2rem;
 }
 
 .card__description {
