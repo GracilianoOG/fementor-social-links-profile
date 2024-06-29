@@ -30,6 +30,7 @@ body {
 
 .card__social {
   background-color: var(--color-grey);
+  border-radius: 0.5rem;
   color: var(--color-white);
   padding: 1rem;
 }
