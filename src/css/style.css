@@ -26,6 +26,7 @@ body {
 
 .card__title {
   font-size: 1.5rem;
+  margin-bottom: 0.8rem;
 }
 
 .card__location {
