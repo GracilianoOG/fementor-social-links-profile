@@ -19,6 +19,7 @@ body {
 .card {
   background-color: var(--color-dark-grey);
   max-width: 330px;
+  padding: 1.5rem;
   text-align: center;
 }
 
