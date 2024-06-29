@@ -15,7 +15,7 @@ body {
 }
 
 .card {
-  background-color: var(--color-grey);
+  background-color: var(--color-dark-grey);
   max-width: 330px;
   text-align: center;
 }
@@ -23,4 +23,9 @@ body {
 .card__socials {
   display: flex;
   flex-direction: column;
+}
+
+.card__social {
+  background-color: var(--color-grey);
+  color: var(--color-white);
 }
