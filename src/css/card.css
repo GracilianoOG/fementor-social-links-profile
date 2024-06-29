@@ -1,0 +1,39 @@
+.card {
+  background-color: var(--color-dark-grey);
+  border-radius: 0.75rem;
+  flex: 0 1 330px;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.card__title {
+  font-size: 1.5rem;
+  margin-bottom: 0.8rem;
+}
+
+.card__location {
+  color: var(--color-green);
+  font-size: 0.9rem;
+  margin-bottom: 2rem;
+}
+
+.card__description {
+  margin-bottom: 1.5rem;
+}
+
+.card__socials {
+  display: flex;
+  flex-direction: column;
+}
+
+.card__social {
+  background-color: var(--color-grey);
+  border-radius: 0.5rem;
+  color: var(--color-white);
+  font-weight: 600;
+  padding: 1rem;
+}
+
+.card__social:not(:last-child) {
+  margin-bottom: 1rem
+}
