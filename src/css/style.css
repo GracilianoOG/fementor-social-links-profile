@@ -24,6 +24,10 @@ body {
   text-align: center;
 }
 
+.card__description {
+  margin-bottom: 1.5rem;
+}
+
 .card__socials {
   display: flex;
   flex-direction: column;
