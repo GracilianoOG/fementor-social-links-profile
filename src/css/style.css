@@ -24,6 +24,10 @@ body {
   text-align: center;
 }
 
+.card__title {
+  font-size: 1.5rem;
+}
+
 .card__location {
   color: var(--color-green);
   font-size: 0.9rem;
