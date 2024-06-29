@@ -12,3 +12,8 @@ body {
   max-width: 330px;
   text-align: center;
 }
+
+.card__socials {
+  display: flex;
+  flex-direction: column;
+}
