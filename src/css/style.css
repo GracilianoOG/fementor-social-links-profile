@@ -3,6 +3,7 @@
 @import url("./fonts.css");
 
 body {
+  background-color: var(--color-off-black);
   color: var(--color-white);
   font-family: "Inter", sans-serif;
   font-size: 14px;
