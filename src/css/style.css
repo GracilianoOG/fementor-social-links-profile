@@ -28,4 +28,9 @@ body {
 .card__social {
   background-color: var(--color-grey);
   color: var(--color-white);
+  padding: 1rem;
+}
+
+.card__social:not(:last-child) {
+  margin-bottom: 1rem
 }
