@@ -1,7 +1,7 @@
 .card {
   background-color: var(--color-dark-grey);
   border-radius: 0.75rem;
-  flex: 0 1 330px;
+  flex: 0 1 20.625rem;
   padding: 1.5rem;
   text-align: center;
 }
@@ -9,7 +9,7 @@
 .card__avatar {
   border-radius: 50%;
   margin-bottom: 1.5rem;
-  width: 90px;
+  width: 5.625rem;
 }
 
 .card__title {
@@ -51,9 +51,9 @@
   transform: scale(1.04);
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 62rem) {
   .card {
-    flex-basis: 383px;
+    flex-basis: 23.938rem;
     padding: 2.5rem;
   }
 }
