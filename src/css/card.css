@@ -38,8 +38,15 @@
   color: var(--color-white);
   font-weight: 600;
   padding: 0.9rem;
+  transition: background-color 0.2s, color 0.08s, transform 0.2s;
 }
 
 .card__social:not(:last-child) {
   margin-bottom: 1rem
+}
+
+.card__social:hover {
+  background-color: var(--color-green);
+  color: var(--color-dark-grey);
+  transform: scale(1.04);
 }
