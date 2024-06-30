@@ -50,3 +50,10 @@
   color: var(--color-dark-grey);
   transform: scale(1.04);
 }
+
+@media screen and (min-width: 992px) {
+  .card {
+    flex-basis: 383px;
+    padding: 2.5rem;
+  }
+}
