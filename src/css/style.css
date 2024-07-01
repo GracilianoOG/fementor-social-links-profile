@@ -10,7 +10,7 @@ body {
   font-size: 14px;
 }
 
-#app {
+.wrapper {
   align-items: center;
   display: flex;
   justify-content: center;
