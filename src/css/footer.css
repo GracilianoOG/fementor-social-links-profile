@@ -11,8 +11,5 @@
 
 .footer__link {
   color: var(--color-green);
-}
-
-.footer__link:hover {
   text-decoration: underline;
 }
