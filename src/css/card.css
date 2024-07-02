@@ -2,6 +2,7 @@
   background-color: var(--color-dark-grey);
   border-radius: 0.75rem;
   flex: 0 1 20.625rem;
+  margin: 2.5rem 1rem;
   padding: 1.5rem;
   text-align: center;
 }
