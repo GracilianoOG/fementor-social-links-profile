@@ -9,6 +9,7 @@ body {
   color: var(--color-white);
   font-family: "Inter", sans-serif;
   font-size: 0.875rem;
+  position: relative;
 }
 
 .wrapper {
