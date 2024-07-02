@@ -1,9 +1,10 @@
 import '../css/style.css'
+import avatar from '../assets/images/avatar-jessica.jpeg'
 
 document.querySelector('#app').innerHTML = `
   <main class="wrapper">
     <article class="card">
-      <img class="card__avatar" src="../assets/images/avatar-jessica.jpeg" alt="Portrait of a confident black woman with a stylish afro hairstyle, making direct eye contact with the camera." />
+      <img class="card__avatar" src="${avatar}" alt="Portrait of a confident black woman with a stylish afro hairstyle, making direct eye contact with the camera." />
       <h1 class="card__title">Jessica Randall</h1>
       <h2 class="card__location">London, United Kingdom</h2>
       <p class="card__description">"Front-end developer and avid reader."</p>
