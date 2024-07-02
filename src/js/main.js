@@ -18,7 +18,7 @@ document.querySelector('#app').innerHTML = `
   <footer class="footer">
     <p class="footer__attribution">
       Challenge by <a class="footer__link" href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>. 
-      Coded by <a class="footer__link" href="#">Gabriel</a>.
+      Coded by <a class="footer__link" href="https://github.com/GracilianoOG">Gabriel</a>.
     </p>
   </footer>
 `
