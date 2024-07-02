@@ -15,4 +15,10 @@ document.querySelector('#app').innerHTML = `
       <a class="card__social" href="#">Instagram</a>
     </article>
   </main>
+  <footer class="footer">
+    <p class="footer__attribution">
+      Challenge by <a class="footer__link" href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>. 
+      Coded by <a class="footer__link" href="#">Gabriel</a>.
+    </p>
+  </footer>
 `
